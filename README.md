@@ -1,7 +1,7 @@
 # olaDoc - Medical Appointment System
 
 ## Overview
-`olaDoc` is a medical appointment system created as a second semester Object-Oriented Programming project. This system facilitates the booking and management of medical appointments, providing a platform for both patients and doctors to interact seamlessly.
+`olaDoc` is a medical appointment system that I created as a second semester Object-Oriented Programming project. This system facilitates the booking and management of medical appointments, providing a platform for both patients and doctors to interact seamlessly.
 
 ## Project Structure
 The project is structured into several classes, each representing a different aspect of the medical appointment system:
